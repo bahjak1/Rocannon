@@ -34,7 +34,7 @@ iab n: - name:
 iab r: register:
 iab w: with_items:
 iab e: environment:
-iab t: tags: [
+iab t: tags: 
 iab b: become: yes
 iab #v # vim:ft=ansible:<C-r>=rocannon#Eatchar('\s')<CR>
 
