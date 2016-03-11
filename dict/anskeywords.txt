@@ -52,3 +52,6 @@ ansible_userspace_architecture
 ansible_userspace_bits
 ansible_virtualization_role
 ansible_virtualization_type
+ansible_user
+ansible_host
+
