@@ -54,7 +54,7 @@ hi def link ansSpecials Macro
 syn keyword ansParallel poll async
 "hi def link ansParallel StorageClass
 
-syn keyword ansTargets user sudo sudo_user connection gather_facts hosts vars vars_files vars_prompt
+syn keyword ansTargets user sudo sudo_user connection gather_facts hosts vars vars_files vars_prompt become
 hi def link ansTargets Typedef
 
 syn match   ansKeyword "ansible_\w\+"
