@@ -36,6 +36,7 @@ iab w: with_items:
 iab e: environment:
 iab t: tags: 
 iab b: become: yes
+iab i: ignore_errors: True
 iab #v # vim:ft=ansible:<C-r>=rocannon#Eatchar('\s')<CR>
 
 
